@@ -44,7 +44,7 @@ curl 安裝完畢之後我們先搜尋一個資料集，如果不知道要搜尋
 
 可以用 curl 直接下載
 
-`curl https://scidm.nchc.org.tw/dataset/ef890176-6fd9-499d-9687-5fe2863c6941/resource/c24b3977-b37e-40a9-88fc-993a65308830/download/train-labels-idx1-ubyte.gz`{{execute``
+`curl https://scidm.nchc.org.tw/dataset/ef890176-6fd9-499d-9687-5fe2863c6941/resource/c24b3977-b37e-40a9-88fc-993a65308830/download/train-labels-idx1-ubyte.gz`{{execute}}``
 
 
 到這邊，應該有基本概念，並可以用curl取得需要的檔案。

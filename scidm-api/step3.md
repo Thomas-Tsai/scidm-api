@@ -21,6 +21,7 @@ https://github.com/Thomas-Tsai/ckanDataDeployTools
 進行 python modules 安裝
 
 `cd ckanDataDeployTools-master`{{execute}}
+
 `pip install -r requirements.txt`{{execute}}
 
 下載 mnist

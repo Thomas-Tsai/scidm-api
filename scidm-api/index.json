@@ -17,8 +17,15 @@
       }
     ],
     "intro": {
-      "text": "intro.md",
-      "courseData": "demo.py"
+      "text": "intro.md"
+    },
+    "assets": {
+      "host01": [
+        {
+          "file": "demo.py",
+          "target": "~/"
+        }
+      ]
     },
     "finish": {
       "text": "finish.md"

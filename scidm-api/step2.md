@@ -47,6 +47,6 @@
 
 上述程式如果想要執行，可以執行：
 
-`downloadMnist.py`{{execute}}
+`demo.py`{{execute}}
     
 複雜程式碼我不想懂，能給我一個一鍵下載嘛？

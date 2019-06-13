@@ -17,7 +17,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "demo.py",
     },
     "finish": {
       "text": "finish.md"

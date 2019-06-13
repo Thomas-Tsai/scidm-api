@@ -10,7 +10,7 @@
 
 安裝完成之後，我們可以用 ckanapi 指令確認安裝是否成功
 
-`ckanapi --help``{{execute}}
+`ckanapi --help`{{execute}}
 
 完成之後，我們可以直接參考範例程式碼：
 

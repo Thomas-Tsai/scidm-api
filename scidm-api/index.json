@@ -20,7 +20,7 @@
       "text": "intro.md"
     },
     "assets": {
-      "client": [
+      "host01": [
         {
           "file": "demo.py",
           "target": "/root/"

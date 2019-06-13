@@ -16,13 +16,13 @@ https://github.com/Thomas-Tsai/ckanDataDeployTools
 
 解壓縮
 
-`unzip ckanSync.zip`
+`unzip ckanSync.zip`{{execute}}
 
 進行 python modules 安裝
 
-`cd ckanDataDeployTools-master`
-`pip install -r requirements.txt`
+`cd ckanDataDeployTools-master`{{execute}}
+`pip install -r requirements.txt`{{execute}}
 
 下載 mnist
 
-`python ckansync.py mnist`{{execute}}
+`python ckanSync.py mnist`{{execute}}

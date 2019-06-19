@@ -26,4 +26,4 @@ https://github.com/Thomas-Tsai/ckanDataDeployTools
 
 下載 mnist
 
-`python ckanSync.py mnist`{{execute}}
+`python3.5 ckanSync.py mnist`{{execute}}

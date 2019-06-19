@@ -6,7 +6,7 @@
 
 並用pip工具安裝 python 套件模組 ckanapi
 
-`pip3 install ckanapi`{{execute}}
+`pip3.5 install ckanapi`{{execute}}
 
 安裝完成之後，我們可以用 ckanapi 指令確認安裝是否成功
 
@@ -47,6 +47,6 @@
 
 上述程式如果想要執行，可以執行：
 
-`python demo.py`{{execute}}
+`python3.5 demo.py`{{execute}}
     
 複雜程式碼我不想懂，能給我一個一鍵下載嘛？

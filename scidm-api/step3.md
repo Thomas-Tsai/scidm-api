@@ -22,7 +22,7 @@ https://github.com/Thomas-Tsai/ckanDataDeployTools
 
 `cd ckanDataDeployTools-master`{{execute}}
 
-`pip install -r requirements.txt`{{execute}}
+`pip3.5 install -r requirements.txt`{{execute}}
 
 下載 mnist
 
